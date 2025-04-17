@@ -1,4 +1,5 @@
 Flask==2.2.3
-yt-dlp==2023.5.8
+yt-dlp
 transformers==4.32.0
-torch==2.0.1+cpu  # Or you can replace this with `tensorflow` if you prefer
+torch==2.0.1+cpu  # Or you can use `tensorflow` if preferred
+
