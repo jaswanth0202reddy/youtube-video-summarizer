@@ -1,0 +1,21 @@
+body {
+    background: linear-gradient(to right, #667eea, #764ba2);
+    color: #fff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1, h2 {
+    font-weight: 600;
+}
+
+.container {
+    max-width: 600px;
+}
+
+input[type="text"] {
+    border-radius: 8px;
+}
+
+.btn {
+    border-radius: 8px;
+}
