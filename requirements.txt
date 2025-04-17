@@ -1,4 +1,6 @@
 Flask==2.2.3
 yt-dlp
 transformers==4.32.0
-torch  # Removed version number, let pip fetch the latest version
+torch==2.0.1+cpu  # or torch depending on your environment
+tokenizers==0.13.3  # Ensure compatibility
+
