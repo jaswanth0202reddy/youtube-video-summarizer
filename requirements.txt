@@ -1,5 +1,4 @@
 Flask==2.2.3
 yt-dlp
 transformers==4.32.0
-torch==2.0.1+cpu  # Or you can use `tensorflow` if preferred
-
+torch  # Removed version number, let pip fetch the latest version
